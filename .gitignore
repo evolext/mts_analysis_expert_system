@@ -1,2 +1,4 @@
 *.csv
 logistic_ts/
+characteristics/
+*.ipynb
