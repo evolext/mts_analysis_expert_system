@@ -1,2 +1,5 @@
 logistic_ts/
 datasets/
+.env
+__pycache__/
+.vscode/
