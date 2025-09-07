@@ -4,3 +4,4 @@ datasets/
 __pycache__/
 .vscode/
 *.pl
+characteristics/*.csv
